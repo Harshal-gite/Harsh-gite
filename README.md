@@ -58,5 +58,43 @@
 > "Success doesn't come from what you do occasionally. It comes from what you do consistently."
 
 ---
+---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Harshal-gite&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshal-gite&theme=tokyo-night"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Harshal-gite&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 My Goal
+
+```text
+☁️ AWS
+🐳 Docker
+🐧 Linux
+🌿 Git & GitHub
+☸️ Kubernetes
+⚙️ Jenkins
+🏗️ Terraform
+🤖 AI
+
+⭐ Thanks for visiting my profile!
 ⭐ Thanks for visiting my profile!
